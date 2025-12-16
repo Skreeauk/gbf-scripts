@@ -38,6 +38,7 @@ javascript: function showDMG() {
 	let dps = d / sec;
 	let dpm = dps * 60;
 	let dpt = d / t;
+	let dptRei = d / (t-5);
 	let tpm = (t / sec) * 60;
 
 	/* Raid Name and Time */
@@ -69,7 +70,7 @@ javascript: function showDMG() {
 	/* Metrics */
 	output += `
 	DPS: ${doRegex(dps.toFixed(2))} | DPM: ${doRegex(dpm.toFixed(2))}\n
-	DPT: ${doRegex(dpt.toFixed(2))} | TPM: ${doRegex(tpm.toFixed(2))}
+	DPT: ${doRegex(dpt.toFixed(2))} | DPT (Rei): ${doRegex(dptRei.toFixed(2))} | TPM: ${doRegex(tpm.toFixed(2))}
 	`;
 
 	/* Copy */
