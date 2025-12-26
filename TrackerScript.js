@@ -17,7 +17,6 @@
 	const targetInfo = [
 		{ key: "17_20004", comment: "Gold Bar" },
 		{ key: "10_215", comment: "Sand" },
-		{ key: "91_4019", comment: "Soup Shield" },
 		// { key: "10_79", comment: "Horn" }
 	];
 

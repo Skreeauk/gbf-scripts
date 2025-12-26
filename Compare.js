@@ -38,7 +38,6 @@ javascript: function compareDPM() {
 	let dps = d / sec;
 	let dpm = dps * 60;
 	let dpt = d / t;
-	let tpm = (t / sec) * 60;
 
 	let ids = [];
 
