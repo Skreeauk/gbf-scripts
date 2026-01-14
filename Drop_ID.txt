@@ -1,0 +1,82 @@
+{ key: "17_20004", comment: "Gold Bar" }
+{ key: "10_215", comment: "Eternity Sand" }
+
+
+{ key: "1_1040319100", comment: "Celestial Axe" }
+{ key: "1_1040713600", comment: "Celestial Bow" }
+{ key: "1_1040120100", comment: "Celestial Dagger" }
+{ key: "1_1040618600", comment: "Celestial Fist" }
+{ key: "1_1040517100", comment: "Celestial Gun" }
+{ key: "1_1040816300", comment: "Celestial Harp" }
+{ key: "1_1040916900", comment: "Celestial Katana" }
+{ key: "1_1040219400", comment: "Celestial Spear" }
+{ key: "1_1040423300", comment: "Celestial Staff" }
+{ key: "1_1040025400", comment: "Celestial Sword" }
+
+
+{ key: "93_3", comment: "Levitura" }
+{ key: "93_4", comment: "Yggtura" }
+{ key: "93_5", comment: "PBHLtura" }
+{ key: "93_6", comment: "Luwohtura" }
+{ key: "93_7", comment: "Mimictura" }
+{ key: "93_9", comment: "Eurotura" }
+{ key: "93_10", comment: "Wilnastura" }
+{ key: "93_11", comment: "Agastura" }
+{ key: "93_12", comment: "Faatura" }
+{ key: "93_14", comment: "Esoterictura" }
+{ key: "93_15", comment: "Qilintura" }
+
+
+{ key: "91_3005", comment: "Rose Queen Shield" }
+{ key: "91_4002", comment: "Malice Shield" }
+{ key: "91_4003", comment: "Archangel Shield" }
+{ key: "91_4004", comment: "Colo Shield" }
+{ key: "91_4005", comment: "Baha Shield" }
+{ key: "91_4006", comment: "Twin Element Shield" }
+{ key: "91_4007", comment: "Lindwurm Shield" }
+{ key: "91_4008", comment: "Gilgamesh Shield" }
+{ key: "91_4009", comment: "GO Shield" }
+{ key: "91_4010", comment: "Huanglong Shield" }
+{ key: "91_4011", comment: "Qilin Shield" }
+{ key: "91_4012", comment: "Alex Shield" }
+{ key: "91_4013", comment: "Ennead Shield" }
+{ key: "91_4014", comment: "Atum Shield" }
+{ key: "91_4015", comment: "Horus Shield" }
+{ key: "91_4016", comment: "Galleon Shield" }
+{ key: "91_4017" comment: "Fediel Shield" }
+{ key: "91_4018", comment: "Diaspora Shield" }
+{ key: "91_4019", comment: "Soup Shield" }
+{ key: "91_4020", comment: "World Shield" }
+{ key: "91_4021", comment: "Anima Animus Shield" }
+
+
+{ key: "73_3", comment: "Red Ring" }
+{ key: "73_4", comment: "Better Red Ring" }
+{ key: "73_11", comment: "Fire Earring" }
+{ key: "73_12", comment: "Water Earring" }
+{ key: "73_13", comment: "Earth Earring" }
+{ key: "73_14", comment: "Wind Earring" }
+{ key: "73_15", comment: "Light Earring" }
+{ key: "73_16", comment: "Dark Earring" }
+{ key: "73_21", comment: "Better Fire Earring" }
+{ key: "73_22", comment: "Better Water Earring" }
+{ key: "73_23", comment: "Better Earth Earring" }
+{ key: "73_24", comment: "Better Wind Earring" }
+{ key: "73_25", comment: "Better Light Earring" }
+{ key: "73_26", comment: "Better Dark Earring" }
+
+
+{ key: "10_614", comment: "Martial Golden Book" }
+{ key: "10_616", comment: "Esoteric Golden Book" }
+{ key: "10_618", comment: "Virtuosic Golden Book" }
+
+
+{ key: "10_10382", comment: "Sunlight Shard" }
+{ key: "10_216", comment: "Artifact Pith" }
+{ key: "10_215", comment: "Enigmatic Armilla / Artifact Reroll" }
+{ key: "10_219", comment: "Theorem Chisel / Artifact Picker" }
+
+
+{ key: "10_79", comment: "PBHL Horn" }
+{ key: "10_534", comment: "Akasha Key" }
+{ key: "10_546", comment: "GOHL Durian" }
