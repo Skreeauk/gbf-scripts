@@ -12,6 +12,7 @@
 (function () {
 	"use strict";
 
+	const artifact = true;
 	const boosted_artifact = true;
 
 	const targetInfo = [
@@ -58,16 +59,18 @@
 						}
 					});
 
-					const artifact_list = data.option.result_data.rewards.artifact_list;
-
-					if (artifact_list.length > 0) {
-						const artifact_count = data.option.result_data.rewards.artifact_drop_count_info.current_count;
-
-						const artifact_ele = parseInt(artifact_list[0].attribute) - 1;
-						const artifact_weapon = parseInt(artifact_list[0].kind) - 1;
-
-						if (boosted_artifact || artifact_count === "30") {
-							send_artifact(artifact_ele, artifact_weapon);
+					if (artifact) {
+						const artifact_list = data.option.result_data.rewards.artifact_list;
+	
+						if (artifact_list.length > 0) {
+							const artifact_count = data.option.result_data.rewards.artifact_drop_count_info.current_count;
+	
+							const artifact_ele = parseInt(artifact_list[0].attribute) - 1;
+							const artifact_weapon = parseInt(artifact_list[0].kind) - 1;
+	
+							if (boosted_artifact || artifact_count === "50") {
+								send_artifact(artifact_ele, artifact_weapon);
+							}
 						}
 					}
 				}
