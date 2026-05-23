@@ -24,5 +24,3 @@ javascript: function checkPlayers() {
 	navigator.clipboard.writeText(output);
 }
 checkPlayers();
-
-// test
